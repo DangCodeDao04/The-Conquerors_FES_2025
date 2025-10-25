@@ -1,0 +1,1 @@
+Xin chân thành cảm ơn Ban tổ chức cuộc thi Chuyển đổi số đã tạo sân chơi ý nghĩa để sinh viên được học hỏi và sáng tạo. Dự án này là kết quả của quá trình nỗ lực học tập, nghiên cứu và áp dụng công nghệ vào thực tiễn
