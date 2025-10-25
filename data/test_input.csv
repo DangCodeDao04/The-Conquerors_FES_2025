@@ -1,0 +1,13 @@
+txn_date,amount,desc_clean,ref_clean,rate_used,amount_vnd,flag_FX
+2025-02-21,350,incoming usd payment vuong van qq,USDTXN-HAFE,24500,8575000,FALSE
+2025-02-21,9000000,aof tuition fee tong bao y,TXN-R7KO6,—,9000000,FALSE
+2025-02-23,9000000,aof tuition fee ta van vv batch,TXN-T0CVS,—,9000000,FALSE
+2025-02-23,6500000,aof tuition fee tong bao y,TXN-AO72K,—,6500000,FALSE
+2025-02-25,800,incoming usd payment dinh hai n batch,USDTXN-EQBN,24510,19608000,FALSE
+2025-02-26,8000000,aof tuition fee truong my o,TXN-G8SBI,—,8000000,FALSE
+2025-02-26,5000000,aof tuition fee diep lan z,TXN-02DGT,—,5000000,FALSE
+2025-02-27,5000000,aof tuition fee ta van vv batch,TXN-JI0Y6,—,5000000,FALSE
+2025-02-27,200,incoming usd payment ta quynh v online,USDTXN-MPNS,24510,4902000,FALSE
+2025-02-27,10000000,aof tuition fee luu thi t online,TXN-SYLZT,—,10000000,FALSE
+2025-02-28,5000000,aof tuition fee luu thi t ref,TXN-N78BM,—,5000000,FALSE
+2025-02-28,10000000,aof tuition fee vuong ha q,TXN-FPZUE,—,10000000,FALSE

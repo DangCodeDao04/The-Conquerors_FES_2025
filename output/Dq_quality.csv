@@ -1,0 +1,15 @@
+File,Column,Null%,Min,Max,Notes
+bank_stmt.csv,txn_date,0.0%,2025-02-21,2025-03-31,OK
+bank_stmt.csv,amount,0.0%,-150000,10000000,OK
+bank_stmt.csv,desc,0.0%,-,-,OK
+bank_stmt.csv,ref,0.0%,-,-,OK
+bank_stmt.csv,account_no,0.0%,-,-,OK
+bank_stmt.csv,currency,0.0%,-,-,OK
+gl_entries.csv,post_date,0.0%,2025-02-21,2025-04-02,OK
+gl_entries.csv,amount,0.0%,150000,19624000,OK
+gl_entries.csv,doc_no,0.0%,-,-,OK
+gl_entries.csv,account,0.0%,-,-,OK
+gl_entries.csv,partner,11.1%,-,-,Thiếu tên khách hàng
+gl_entries.csv,currency,0.0%,-,-,OK
+fx_rates.csv,date,0.0%,2025-02-20,2025-03-27,OK
+fx_rates.csv,USD_VND,0.0%,24500,24550,OK

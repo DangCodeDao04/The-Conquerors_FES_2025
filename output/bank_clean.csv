@@ -1,0 +1,64 @@
+txn_date,amount,desc_clean,ref_clean,loại_hậu_tố,currency
+2025-02-21,350,incoming usd payment vuong van qq,USDTXN-HAFE,CO,USD
+2025-02-21,9000000,aof tuition fee tong bao y,TXN-R7KO6,-,VND
+2025-02-23,9000000,aof tuition fee ta van vv batch,TXN-T0CVS,-,VND
+2025-02-23,6500000,aof tuition fee tong bao y,TXN-AO72K,-,VND
+2025-02-25,800,incoming usd payment dinh hai n batch,USDTXN-EQBN,CO,USD
+2025-02-26,8000000,aof tuition fee truong my o,TXN-G8SBI,-,VND
+2025-02-26,5000000,aof tuition fee diep lan z,TXN-02DGT,-,VND
+2025-02-27,5000000,aof tuition fee ta van vv batch,TXN-JI0Y6,-,VND
+2025-02-27,200,incoming usd payment ta quynh v online,USDTXN-MPNS,CO,USD
+2025-02-27,10000000,aof tuition fee luu thi t online,TXN-SYLZT,-,VND
+2025-02-28,5000000,aof tuition fee luu thi t ref,TXN-N78BM,-,VND
+2025-02-28,10000000,aof tuition fee vuong ha q,TXN-FPZUE,-,VND
+2025-03-01,6500000,aof tuition fee tong bao y batch,TXN-YZCOT,-,VND
+2025-03-01,1500000,service fee training diep thi zz,SRV-UK9E1,-,VND
+2025-03-01,-150000,bank fee monthly,FEE-RJRN,-,VND
+2025-03-02,7000000,aof tuition fee vo hai w,TXN-HJ7XV,-,VND
+2025-03-04,8000000,aof tuition fee ta quynh v,TXN-KC1MS,-,VND
+2025-03-04,1500000,service fee training ta van vv,SRV-R09SK,-,VND
+2025-03-04,10000000,aof tuition fee luu thi t online,TXN-OYN6Q,-,VND
+2025-03-05,1800000,service fee training diep thi zz batch,SRV-JKV5U,-,VND
+2025-03-05,7000000,aof tuition fee do thi g online,TXN-DD4V3,-,VND
+2025-03-06,7000000,pending incoming dang thu j ref,PEND-63CFL,CO,VND
+2025-03-06,4500000,pending incoming tong van yy online,PEND-2V2HE,CO,VND
+2025-03-06,5000000,aof tuition fee hoang gia e,TXN-ZCCBL,-,VND
+2025-03-07,10000000,aof tuition fee quach anh r,TXN-1SWJC,-,VND
+2025-03-07,7000000,aof tuition fee ngo duc k online,TXN-2D54I,-,VND
+2025-03-07,8000000,aof tuition fee dinh thi nn ref,TXN-4COWG,-,VND
+2025-03-08,9000000,aof tuition fee nguyen van a batch,TXN-YE511,-,VND
+2025-03-08,7000000,pending incoming bui minh f batch,PEND-FGCAQ,CO,VND
+2025-03-08,6500000,aof tuition fee vuong van qq,TXN-ZIOYK,-,VND
+2025-03-08,9000000,aof tuition fee vo thi ww,TXN-G65KX,-,VND
+2025-03-10,9000000,aof tuition fee dinh hai n ref,TXN-ZHWJR,-,VND
+2025-03-11,1200000,service fee training luu van tt,SRV-TJ9TZ,-,VND
+2025-03-12,1500000,service fee training bui minh f ref,SRV-KQ1UY,-,VND
+2025-03-12,6500000,aof tuition fee ly thi pp online,TXN-R5XFF,-,VND
+2025-03-15,2500000,service fee training luu van tt batch,SRV-FGSXW,-,VND
+2025-03-15,6500000,aof tuition fee phan quoc i,TXN-SDBDW,-,VND
+2025-03-15,350,incoming usd payment ngo duc k batch,USDTXN-V8Z2,CO,USD
+2025-03-16,800,incoming usd payment ly bao p online,USDTXN-7HV3,CO,USD
+2025-03-18,500,incoming usd payment vo hai w,USDTXN-4Q0B,CO,USD
+2025-03-19,5000000,aof tuition fee vu thi hh,TXN-7TZ0Y,-,VND
+2025-03-20,2500000,service fee training luu thi t,SRV-49KWV,-,VND
+2025-03-20,9000000,aof tuition fee do thi g ref,TXN-B9487,-,VND
+2025-03-22,1800000,service fee training nguyen thi bb,SRV-9TMQL,-,VND
+2025-03-22,10000000,aof tuition fee ngo duc k,TXN-XKXWD,-,VND
+2025-03-23,1500000,service fee training mai van ss batch,SRV-RZQAK,-,VND
+2025-03-23,5000000,aof tuition fee vo thi ww,TXN-TEX8F,-,VND
+2025-03-25,5000000,aof tuition fee cao van mm batch,TXN-LA753,-,VND
+2025-03-27,6500000,aof tuition fee quach thi rr,TXN-L1C32,-,VND
+2025-03-28,1800000,service fee training hoang van ee,SRV-RM8J5,-,VND
+2025-03-28,4500000,pending incoming tran van cc,PEND-EYZ7S,CO,VND
+2025-03-28,5000000,aof tuition fee hoang gia e ref,TXN-TSEMC,-,VND
+2025-03-28,9000000,aof tuition fee hoang van ee online,TXN-IRODX,-,VND
+2025-03-29,7000000,aof tuition fee le van c,TXN-DP0LV,-,VND
+2025-03-30,5000000,aof tuition fee quach thi rr,TXN-5O7UU,-,VND
+2025-03-30,4500000,pending incoming mai tuan s,PEND-BKK4C,CO,VND
+2025-03-30,5000000,aof tuition fee dang thi jj,TXN-HXTHV,-,VND
+2025-03-30,7000000,aof tuition fee vo thi ww ref,TXN-6WZS3,-,VND
+2025-03-31,7000000,aof tuition fee ngo van kk,TXN-GCX19,-,VND
+2025-03-31,-150000,bank fee monthly ref,FEE-479T,-,VND
+2025-03-31,9000000,aof tuition fee luu thi t batch,TXN-O4KH2,-,VND
+2025-03-31,10000000,aof tuition fee dang thu j,TXN-7IF2G,-,VND
+2025-03-31,10000000,aof tuition fee vu thi hh,TXN-A3KX7,-,VND

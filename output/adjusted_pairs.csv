@@ -1,0 +1,54 @@
+bank_ref,gl_doc,match_status,mismatch_type,note
+SRV-9TMQL,SRVRCPT-IZL,Matched,,-
+SRV-RM8J5,SRVRCPT-ECR,Matched,,-
+SRV-49KWV,SRVRCPT-08H,Matched,,-
+SRV-R09SK,SRVRCPT-DGI,Matched,,-
+SRV-TJ9TZ,SRVRCPT-E5R,Matched,,-
+TXN-FPZUE,RCPT-T4UF,Matched,,-
+TXN-SYLZT,RCPT-P7Y6,Matched,,-
+TXN-02DGT,RCPT-PKI7,Matched,,-
+TXN-A3KX7,RCPT-J60F,Matched,,-
+TXN-B9487,RCPT-FRHO,Matched,,-
+TXN-G8SBI,RCPT-Q2Y9,Matched,,-
+TXN-GCX19,RCPT-5NQ4,Matched,,-
+TXN-HJ7XV,RCPT-TIQJ,Matched,,-
+TXN-HXTHV,RCPT-1FPK,Matched,,-
+TXN-OYN6Q,RCPT-IMVI,Matched,,-
+TXN-TSEMC,RCPT-NF4Z,Matched,,-
+TXN-XKXWD,RCPT-YIHA,Matched,,-
+TXN-ZHWJR,RCPT-DPJA,Matched,,-
+TXN-5O7UU,RCPT-WPVS,Matched,,-
+TXN-JI0Y6,RCPT-VBDI,Matched,,-
+TXN-N78BM,RCPT-YMU5,Matched,,-
+TXN-2D54I,RCPT-M35I,Matched,,-
+SRV-FGSXW,SRVRCPT-71Q,Matched,,-
+SRV-JKV5U,SRVRCPT-SGI,Matched,,-
+SRV-KQ1UY,SRVRCPT-MRL,Matched,,-
+SRV-RZQAK,SRVRCPT-OIX,Matched,,-
+SRV-UK9E1,SRVRCPT-V2I,Matched,,-
+TXN-1SWJC,RCPT-IM6C,Matched,,-
+TXN-4COWG,RCPT-RIXA,Matched,,-
+TXN-7IF2G,RCPT-A0L7,Matched,,-
+TXN-7TZ0Y,RCPT-P87W,Matched,,-
+TXN-DD4V3,RCPT-T9NT,Matched,,-
+TXN-YZCOT,RCPT-C3O1,Matched,,-
+TXN-AO72K,RCPT-T026,Matched,,-
+TXN-IRODX,RCPT-PQ0Y,Matched,,-
+TXN-L1C32,RCPT-JH75,Matched,,-
+TXN-LA753,RCPT-IIUC,Matched,,-
+TXN-SDBDW,RCPT-VNVQ,Matched,,-
+TXN-YE511,RCPT-EPQ8,Matched,,-
+TXN-ZIOYK,RCPT-77AW,Matched,,-
+TXN-R5XFF,RCPT-T0PV,Review,Low Score,Review required due to low score
+TXN-T0CVS,RCPT-F8CG,Review,Low Score,Review required due to low score
+TXN-TEX8F,RCPT-5PHT,Review,Low Score,Review required due to low score
+TXN-6WZS3,RCPT-QF5Q,Review,Low Score,Review required due to low score
+TXN-DP0LV,RCPT-E6GB,Review,Low Score,Review required due to low score
+TXN-G65KX,RCPT-HNF8,Review,Low Score,Review required due to low score
+TXN-KC1MS,RCPT-LA5J,Review,Low Score,Review required due to low score
+TXN-O4KH2,RCPT-XQPH,Review,Low Score,Review required due to low score
+TXN-ZCCBL,RCPT-IYHE,Review,Low Score,Review required due to low score
+TXN-R7KO6,RCPTFX-E8QJ,Review,Low Score,Review required due to low score
+FEE-RJRN,RCPT-XRGH,Unmatched,Low Score,Unmatched due to very low score
+PEND-FGCAQ,RCPTFX-8DAL,Unmatched,Low Score,Unmatched due to very low score
+PEND-2V2HE,RCPTFX-APRP,Unmatched,Low Score,Unmatched due to very low score

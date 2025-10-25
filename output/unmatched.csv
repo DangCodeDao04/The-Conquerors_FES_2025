@@ -1,0 +1,4 @@
+bank_ref,gl_doc,match_score,match_type,matched_type,explanation
+FEE-RJRN,RCPT-XRGH,0.524,UNMATCHED,UNMATCHED,No suitable match found: FEE-RJRN ↔ RCPT-XRGH (Score: 0.524)
+PEND-FGCAQ,RCPTFX-8DAL,0.464,UNMATCHED,UNMATCHED,No suitable match found: PEND-FGCAQ ↔ RCPTFX-8DAL (Score: 0.464)
+PEND-2V2HE,RCPTFX-APRP,0.438,UNMATCHED,UNMATCHED,No suitable match found: PEND-2V2HE ↔ RCPTFX-APRP (Score: 0.438)

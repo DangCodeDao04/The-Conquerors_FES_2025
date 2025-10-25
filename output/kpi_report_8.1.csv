@@ -1,0 +1,4 @@
+Metric,Value,Description
+Precision,97.95918367346938,Tỉ lệ ghép đúng (48 / 49 cặp)
+Recall,82.75862068965517,Tỉ lệ tìm thấy (48 / 58 cặp)
+F1-Score,89.71962616822428,Điểm trung bình điều hòa

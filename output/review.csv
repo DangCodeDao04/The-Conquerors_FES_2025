@@ -1,0 +1,2 @@
+bank_ref,gl_doc,match_score,match_type,matched_type,explanation
+TXN-R7KO6,RCPTFX-E8QJ,0.706,REVIEW,REVIEW,Foreign exchange transaction low confidence: TXN-R7KO6 ↔ RCPTFX-E8QJ (Score: 0.706)
